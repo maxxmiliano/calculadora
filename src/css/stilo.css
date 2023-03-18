@@ -7,16 +7,13 @@
     font-family: 'VT323', monospace;
     color: hwb(134 4% 24%);
     text-align: center;
-    /*font-size: 18px;
-    display: flex;
-    justify-content: center;*/
     align-items: center;
     min-height: 100vh;
-    
-    
-    /*padding: 30px;
-    opacity: 0.9;*/
-
+    padding-top: 30px;
+   
+}
+.conteudo h3 {
+    font-size: 50px;
 }
 
 .calculadora{
